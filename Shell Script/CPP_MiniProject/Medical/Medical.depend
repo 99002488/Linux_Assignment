@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1601752534 source:c:\users\tejas\onedrive\documents\medical\main.cpp
+
+1601752724 source:c:\users\tejas\onedrive\documents\medical\medical-test.cpp
+	"medical.h"
+	"sickTreat.h"
+	"medicalDb.h"
+	<gtest/gtest.h>
+
+1601752559 c:\users\tejas\onedrive\documents\medical\medical.h
+	<string>
+
+1601752604 c:\users\tejas\onedrive\documents\medical\sicktreat.h
+	<string>
+	"medical.h"
+
+1601752607 c:\users\tejas\onedrive\documents\medical\medicaldb.h
+	<string>
+	<cstdint>
+	"medical.h"
+	"sickTreat.h"
+	<list>
+	<iterator>
+
+1601752638 source:c:\users\tejas\onedrive\documents\medical\medical.cpp
+	"medical.h"
+	<string>
+
+1601752757 source:c:\users\tejas\onedrive\documents\medical\medicaldb-test.cpp
+	"medical.h"
+	"sickTreat.h"
+	"medicalDb.h"
+	<gtest/gtest.h>
+	<iostream>
+	<pthread.h>
+	<semaphore.h>
+	<list>
+	<iterator>
+	<cstdint>
+
+1601752668 source:c:\users\tejas\onedrive\documents\medical\medicaldb.cpp
+	"sickTreat.h"
+	"medical.h"
+	"medicalDb.h"
+	<string>
+	<list>
+	<iterator>
+	<thread>
+	<semaphore.h>
+	<iostream>
+
+1601752695 source:c:\users\tejas\onedrive\documents\medical\sicktreat.cpp
+	<string>
+	"medical.h"
+	"sickTreat.h"
+

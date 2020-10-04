@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shrawani/Desktop/Medical-Project/CPP_MiniProject/Medical/medical.cpp
+medical.h
+/home/shrawani/Desktop/Medical-Project/CPP_MiniProject/Medical/medical.h
+string
+-
+
+/home/shrawani/Desktop/Medical-Project/CPP_MiniProject/Medical/medical.h
+string
+-
+

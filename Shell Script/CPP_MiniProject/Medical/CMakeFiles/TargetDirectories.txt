@@ -1,0 +1,3 @@
+/home/shrawani/Desktop/Medical-Project/CPP_MiniProject/Medical/CMakeFiles/edit_cache.dir
+/home/shrawani/Desktop/Medical-Project/CPP_MiniProject/Medical/CMakeFiles/rebuild_cache.dir
+/home/shrawani/Desktop/Medical-Project/CPP_MiniProject/Medical/CMakeFiles/MedicalMain.dir
